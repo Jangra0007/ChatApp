@@ -1,0 +1,26 @@
+.background{
+    background-color: lightgray;
+} 
+.mid-section{
+height: 100vh;
+overflow: auto;
+width: 100vw;
+}
+.para{
+    background-color: rgb(211, 237, 119) !important;
+    padding: 10px;
+    width: 75%;
+}
+.mid-para{
+     text-align: center;
+     clear: both;
+     border: 2px solid rgb(244, 240, 240);
+     padding: 5px;
+}
+.first{
+    height: 90%;
+    overflow: auto;
+}
+.second{
+    height: 10%;
+}
